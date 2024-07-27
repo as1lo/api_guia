@@ -1,0 +1,17 @@
+-------------------| API |-------------------
+
+Mecanismo que permite um conjunto de sistemas, seja computadores ou softwares, se comunicarem por meio de protocolos.
+
+Protocolos Principais:
+
+(SOAP) Simple Object Access Protocol
+	Protocolo baseado em XML para troca de informações estruturadas em ambientes descentralizados e distribuídos.
+
+(RPC) Remote Procedure Call
+	Protocolo que permite a execução de procedimentos em uma máquina remota como se fossem locais.
+
+(REST) Representational State Transfer
+	É um estilo de arquitetura que utiliza os padrões e protocolos da web, como HTTP, para permitir a comunicação entre sistemas. 
+
+(GraphQL) Linguagem de consulta para APIs desenvolvida pelo Facebook. 
+	Permite que os clientes solicitem exatamente os dados de que precisam, e nada mais. 
